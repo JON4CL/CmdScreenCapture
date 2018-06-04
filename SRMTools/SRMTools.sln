@@ -1,9 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2026
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmdScreenCapture", "SRMTools\CmdScreenCapture.csproj", "{7D0D8341-01A1-458C-AB2F-DB79831913C6}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRMTools", "SRMTools.csproj", "{7D0D8341-01A1-458C-AB2F-DB79831913C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,8 +16,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D58E1471-3BCD-4AC9-BF0C-2732C5918DEF}
 	EndGlobalSection
 EndGlobal
